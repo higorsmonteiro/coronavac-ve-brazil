@@ -17,7 +17,7 @@ Although CoronaVac was the only vaccine adopted for the elderly adults in the fi
 __One Sentence Summary:__ Despite the critical delay in the implementation of an immunization program by the federal government, our study suggests that CoronaVac was pivotal in preventing an accentuating dramatic scenario in terms of lives lost to Covid-19.
 
 
-![FIG1_JOIN_V3.png](folder/to/FIG1_JOIN_V3.png)
+![FIG_1_JOIN_V6.png](figures/FIG_1_JOIN_V6.png)
 
 __Fig. 1 Epidemiology pattern of Covid-19 in Fortaleza, 2020-2022.__
 *(a) Epidemiological curves of Covid-19 cases and deaths in Fortaleza, and major interventions implemented in the city, Jan 2020-July 2022. (b) Cases (gray) and (c) deaths (red) of Covid-19 and cumulative distribution of individuals vaccinated with 2 doses (we consider a single dose of the Janssen vaccine as equivalent to a two-dose regimen).* 
