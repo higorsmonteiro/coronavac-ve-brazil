@@ -34,7 +34,7 @@ We have organized this repo into three main folders:
 
 
 # Correspondence
-For any issues with anonymization or major issues with the functionality of the script please [create an issue]([https://github.com/higorsmonteiro/coronavac-ve-brazil/](https://github.com/higorsmonteiro/coronavac-ve-brazil/issues).
+For any issues with anonymization or major issues with the functionality of the script please [create an issue][https://github.com/higorsmonteiro/coronavac-ve-brazil/](https://github.com/higorsmonteiro/coronavac-ve-brazil/issues).
 
 
 ## License
