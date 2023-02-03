@@ -2,11 +2,11 @@
  
  
 # Introduction
-Here we provide the data and pipeline for: [Spatiotemporal pattern of COVID-19 spread in Brazil](https://science.sciencemag.org/content/early/2021/04/13/science.abh1558)
+Here we provide the data and pipeline for: [Impact of CoronaVac on Covid-19 outcomes of elderly adults in a large and socially unequal Brazilian city: A target trial emulation study](to-be-released)
 
 ### Citation
 
-> In submission 2021. DOI: XX.XXXX/XXXXX.XXXXXXX
+> In submission 2023. DOI: XX.XXXX/XXXXX.XXXXXXX
 
 
 # Abstract
@@ -26,13 +26,7 @@ __Fig. 1 Epidemiology pattern of Covid-19 in Fortaleza, 2020-2022.__
 
 # Organization
 We have organized this repo by method. Within each of the methods folders are separate `code`, `data`, and `README.md` files. For additional information see the `README.md` files for each method: 
-- `1_spatiotemporal`  — the spatiotemporal clusters analysis.
-- `2_geographical_center`  — the geographical center analysis. (Includes supplementary .gif files)
-- `3_hoover` —  the Locational Hoover Index.
-- `4_policy_response ` - the policy response indicators
-- `5_social_distancing ` - the social distancing index
-- `6_correlations` — the Pearson correlations
-- `7_cluster` - the hierarchical cluster analysis
+- `1_xxxx`  — XXXX.
 - `Figures` - All figures from the main document 
 
 
@@ -47,4 +41,8 @@ The data collected and presented is licensed under the [Creative Commons Attribu
 # Authors
 - __Higor S Monteiro__: Department of Physics, Universidade Federal do Ceará | ![link--v2](https://user-images.githubusercontent.com/43140693/111211993-742aeb80-85a5-11eb-85b8-a1e2c5102d99.png) : [GitHub Profile](https://github.com/higorsmonteiro)
 - __Antonio S Lima Neto__: Secretaria Municipal de Saúde de Fortaleza | ![link--v2](https://user-images.githubusercontent.com/43140693/111211993-742aeb80-85a5-11eb-85b8-a1e2c5102d99.png) : [Google Scholar](https://scholar.google.com.br/citations?user=ZTQLXYkAAAAJ&hl=pt-BR&oi=ao)
-- __Rebecca Kahn__: Department of Epidemiology, Harvard T. H. Chan School of Public Health | ![link--v2](https://user-images.githubusercontent.com/43140693/111211993-742aeb80-85a5-11eb-85b8-a1e2c5102d99.png) : [Google Scholar](https://scholar.google.com.br/citations?user=ZTQLXYkAAAAJ&hl=pt-BR&oi=ao)
+- __Rebecca Kahn__: Department of Epidemiology, Harvard T. H. Chan School of Public Health | ![link--v2](https://user-images.githubusercontent.com/43140693/111211993-742aeb80-85a5-11eb-85b8-a1e2c5102d99.png) : [Profile](https://ccdd.hsph.harvard.edu/people/rebecca-kahn/)
+- __Geziel S Sousa__: Secretaria Municipal de Saúde de Fortaleza | ![link--v2](https://user-images.githubusercontent.com/43140693/111211993-742aeb80-85a5-11eb-85b8-a1e2c5102d99.png) : [Google Scholar](https://scholar.google.com.br/citations?user=87Rj4lEAAAAJ&hl=pt-BR)
+- __Humberto A Carmona__: Department of Physics, Universidade Federal do Ceará | ![link--v2](https://user-images.githubusercontent.com/43140693/111211993-742aeb80-85a5-11eb-85b8-a1e2c5102d99.png) : [Google Scholar](https://scholar.google.ch/citations?user=58P-HNoAAAAJ&hl=en)
+- __José S Andrade, Jr__: Department of Physics, Universidade Federal do Ceará | ![link--v2](https://user-images.githubusercontent.com/43140693/111211993-742aeb80-85a5-11eb-85b8-a1e2c5102d99.png) : [Google Scholar](https://scholar.google.ch/citations?user=EwWccccAAAAJ&hl=en)
+- __Marcia C Castro__: Department of Global Health and Population, Harvard T. H. Chan School of Public Health | ![link--v2](https://user-images.githubusercontent.com/43140693/111211993-742aeb80-85a5-11eb-85b8-a1e2c5102d99.png) : [Google Scholar](https://scholar.google.com/citations?user=eq9m-DcAAAAJ&hl=pt-BR)
