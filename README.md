@@ -25,13 +25,16 @@ __Fig. 1 Epidemiology pattern of Covid-19 in Fortaleza, 2020-2022.__
 
 
 # Organization
-We have organized this repo by method. Within each of the methods folders are separate `code`, `data`, and `README.md` files. For additional information see the `README.md` files for each method: 
-- `1_xxxx`  — XXXX.
-- `Figures` - All figures from the main document 
+We have organized this repo into three main folders:
+- `code` - Code to perform all the tasks of the project. Codes to bundle all classes to perform a specific tasks.
+    - `src` - Main classes to bundle functions regarding a specific task (e. g. performing the matching procedure).
+    - `lib` - auxiliary functions used in the main classes.  
+- `data` - Contains the final dataset (after linkage) with all deidentified information used to create the cohort and perform the survival analysis.
+- `figures` - All figures from the main document for publication. 
 
 
 # Correspondence
-For any issues with anonymization or major issues with the functionality of the script please [create an issue](https://github.com/mcastrolab/Brazil_Covid19_spatiotemporal/issues).
+For any issues with anonymization or major issues with the functionality of the script please [create an issue]([https://github.com/higorsmonteiro/coronavac-ve-brazil/](https://github.com/higorsmonteiro/coronavac-ve-brazil/issues).
 
 
 ## License
