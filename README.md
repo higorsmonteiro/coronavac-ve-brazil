@@ -6,7 +6,7 @@ Here we provide the data and pipeline for: [Impact of CoronaVac on Covid-19 outc
 
 ### Citation
 
-> In submission 2023. DOI: XX.XXXX/XXXXX.XXXXXXX
+> Vaccine. DOI: https://doi.org/10.1016/j.vaccine.2023.07.065
 
 
 # Abstract
